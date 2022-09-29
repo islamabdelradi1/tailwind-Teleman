@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: white;
+    overflow-x: hidden;
+}
+.bgsecone{
+    background-image: url("../public/imgs/wavy-2-green.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+.Sectwo{
+    background-image: url("https://teleman.thecodestudio.xyz/frontend/titania/assets/img/graphics/legacy/circles-and-shapes.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+
+}
+.Sec4{
+    background-image: url("https://teleman.thecodestudio.xyz/frontend/titania/assets/img/graphics/legacy/circles-and-shapes.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
